@@ -75,13 +75,7 @@ h1,h5 {
 </style>
 </head>
 <body>
-<table bgcolor="purple" width=100%
-<tr>
-  <td>
-    Background is cream.
-  </td>
-</tr>
-</table>
+<p><span style="background-color: #ffcc99;">This is cream :D</span></p>
 <div class="bg"></div>
 <div class="bg bg2"></div>
 <div class="bg bg3"></div>
@@ -105,7 +99,7 @@ Still experimenting, woohoo!
 <p><strong>This is a photo from Wix.com, I wish my site would look that good</strong>
 <br>If you think this website looks like that, I would go check you're eyesight.</p>
 <h2>Mountains are <strong><em>beautiful!
-<img src="background-image:url(https://iso.500px.com/wp-content/uploads/2016/02/stock-photo-133673159-1500x1000.jpg); width="150" height="100";border:2px solid yellow;padding:10px;">
+<p><img src="https://tse4.mm.bing.net/th?id=OIP.UmiPTTYl6v_WVm1WRcrqTgHaEK&amp;pid=Api" alt="Mountains" width="502" height="282" border:2px solid yellow;padding:10px;"/></p>
 <p>Display this<br><br></p>
 
 <blockquote>
