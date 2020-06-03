@@ -8,7 +8,7 @@ Wish me luck!
       type="image/png" 
       href="<link rel="icon" 
       type="image/png" 
-      href="http://example.com/myicon.png">">
+      href="https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/1/1f/Teal_rose_border.png/revision/latest?cb=20180109011354">">
 <link href="https://fonts.googleapis.com/css?family=Adamina" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&display=swap" rel="stylesheet">
 <style>
