@@ -4,6 +4,11 @@ Good day, I am learning how to code using HTML. It's really fun, but quite puzzl
 I like eggtarts
 Wish me luck!
 <head>
+  <link rel="icon" 
+      type="image/png" 
+      href="<link rel="icon" 
+      type="image/png" 
+      href="http://example.com/myicon.png">">
 <link href="https://fonts.googleapis.com/css?family=Adamina" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&display=swap" rel="stylesheet">
 <style>
@@ -99,7 +104,7 @@ Still experimenting, woohoo!
 <p><strong>This is a photo from Wix.com, I wish my site would look that good</strong>
 <br>If you think this website looks like that, I would go check you're eyesight.</p>
 <h2>Mountains are <strong><em>beautiful!
-<p><img src="https://tse4.mm.bing.net/th?id=OIP.UmiPTTYl6v_WVm1WRcrqTgHaEK&amp;pid=Api" alt="Mountains" width="502" height="282" border:2px solid yellow;padding:10px;"/></p>
+<p><img src="https://tse4.mm.bing.net/th?id=OIP.UmiPTTYl6v_WVm1WRcrqTgHaEK&amp;pid=Api" alt="Mountains" width="502" height="282" /></p>
 <p>Display this<br><br></p>
 
 <blockquote>
