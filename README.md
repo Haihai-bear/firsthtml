@@ -75,7 +75,7 @@ h1,h5 {
 </style>
 </head>
 <body>
-<table bgcolor="cream" width=100%
+<table bgcolor="purple" width=100%
 <tr>
   <td>
     Background is cream.
@@ -104,12 +104,12 @@ Still experimenting, woohoo!
 <p><img src="https://static.wixstatic.com/media/311dce_03f33336c9a3418cb3445406b1b8a480~mv2.jpg/v1/fill/w_962,h_1200,al_c,q_85,usm_0.66_1.00_0.01/1.webp" alt="Now this website doesn't look like that" width="962" height="1200" />
 <p><strong>This is a photo from Wix.com, I wish my site would look that good</strong>
 <br>If you think this website looks like that, I would go check you're eyesight.</p>
-<h2>Mountains are <strong><em>beautiful!</strong></em></h2>
-<div style="background-image:url(https://iso.500px.com/wp-content/uploads/2016/02/stock-photo-133673159-1500x1000.jpg); width="150" height="100";border:2px solid yellow;padding:10px;">
+<h2>Mountains are <strong><em>beautiful!
+<img src="background-image:url(https://iso.500px.com/wp-content/uploads/2016/02/stock-photo-133673159-1500x1000.jpg); width="150" height="100";border:2px solid yellow;padding:10px;">
 <p>Display this<br><br></p>
 
 <blockquote>
 <p><strong>"I am aware this sucks" it's not pretty, but okay? okay. okay? OKAY.</strong><br><br><br>
 <span style="color:orange;">Enjoy!</span></p>
 </blockquote>
-</body>
+
